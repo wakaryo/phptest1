@@ -1,0 +1,9 @@
+.table1 {
+  border: solid black;
+  border-collapse:collapse;
+  empty-cells:hide;
+  border-spacing:0em;
+}
+table {
+  border-collapse: collapse; 
+}
